@@ -1,0 +1,3 @@
+Dragon D1 10 10
+Frog F1 5 5
+Knight K1 0 0

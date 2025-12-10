@@ -310,7 +310,6 @@ CMakeFiles/tests.dir/tests/tests.cpp.o: /workspace/tests/tests.cpp \
  /workspace/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
  /workspace/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
  /workspace/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h \
- /workspace/include/dungeon.h /workspace/include/npc.h \
- /workspace/include/observer.h /workspace/include/npc_factory.h \
- /workspace/include/file_npc_factory.h /workspace/include/dragon.h \
- /workspace/include/frog.h /workspace/include/knight.h
+ /workspace/include/dragon.h /workspace/include/npc.h \
+ /workspace/include/frog.h /workspace/include/knight.h \
+ /workspace/include/dungeon.h /workspace/include/observer.h
