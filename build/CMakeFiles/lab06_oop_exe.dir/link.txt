@@ -1,0 +1,1 @@
+/usr/local/bin/c++ CMakeFiles/lab06_oop_exe.dir/src/main.cpp.o -o lab06_oop_exe  liblab06_oop_lib.a 
